@@ -57,4 +57,3 @@ while opcion != "3" : #not opcion == "3"
         print("Nos vemos luego")
     else:
         print("Opción ingresada no valida")
-    
