@@ -6,3 +6,13 @@ while not num.isdigit():
 resultado = int(num)
 print("Fin")
 
+
+
+
+
+# num = ""
+# while not num.isdigit():
+#     num = input("Ingrese un número: ")
+
+# resultado = int(num)
+# print("Fin")
