@@ -41,7 +41,6 @@ else:
 #         dado2 = randint(1, 6)
 #         intentos += 1
 #         print('Dados: ', dado1,dado2)
-        
 # if dado1 == dado2:
 #     print("¡Eres libre!")
 # elif intentos == 3 or respuesta == "multa":
